@@ -7177,6 +7177,15 @@
                                               "AtlasRef":  "ScenarioEditor_p",
                                               "TextureRef":  "SEditorButtonLongOrderUpNormal"
                                           }
+                      },
+                      {
+                          "MaterialDef":  {
+                                              "Name":  "TechIconsT101",
+                                              "Type":  "Atlas",
+                                              "Blend":  "AlphaPlayerColor",
+                                              "AtlasRef":  "ingametechs_p",
+                                              "TextureRef":  "TechIconsT101"
+                                          }
                       }
                   ],
     "AtlasTextures":  [
@@ -12893,6 +12902,14 @@
                                                                     "imageTLX":  "0.900195",
                                                                     "imageTLY":  "0.900195",
                                                                     "imageBRX":  "0.999805",
+                                                                    "imageBRY":  "0.999805"
+                                                                },
+                                                                {
+                                                                    "RefName":  "TechIconsT101",
+                                                                    "FileName":  "textures/ingame/tech/101_ESlinger.dds",
+                                                                    "imageTLX":  "1.000195",
+                                                                    "imageTLY":  "0.900195",
+                                                                    "imageBRX":  "1.099805",
                                                                     "imageBRY":  "0.999805"
                                                                 }
                                                             ],
