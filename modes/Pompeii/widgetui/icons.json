@@ -234,7 +234,10 @@
     "135": "UnitIcons69350730",
     "136": "UnitIcons60750730",
     "137": "UnitIcons60950730",
-    "138": "UnitIcons61050730"
+    "138": "UnitIcons61050730",
+    "139": "UnitIcons60450730",
+    "140": "UnitIcons60550730",
+    "141": "UnitIcons60650730"
   },
   "Techs": {
     "000": "TechIconsT000",
@@ -340,7 +343,9 @@
     "100": "UnitIcons059",
     "101": "TechIconsT101",
     "102": "TechIconsT043LightCavalry",
-    "103": "TechIconsT189Raider"
+    "103": "TechIconsT189Raider",
+    "104": "TechIconsT177Guardsman",
+    "105": "TechIconsT178EliteGuardsman"
   },
   "StatIcons": {
     "00": "StatIconsPowerUp",
